@@ -6,6 +6,7 @@ const foundSchema = new mongoose.Schema ({
         location: String ,
         contact: String,
         image : String,
+        name : String
 
 }, {
          timestamps: true 

@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const upload = require("../upload/Multer");
+const upload = require("../uploads/Multer");
 const founds = require("../models/FoundModel");
 
 
